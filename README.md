@@ -2,7 +2,11 @@
 
 **M.S. in Computer Science, Tsinghua University**
 
-I am currently working at a startup, focusing on Embodied AI and Robotics.
+## Experience
+
+- **Current** — Embodied AI & Robotics, Startup
+- **ByteDance** — AI Lab
+- **Baidu** — Search (大搜)
 
 ## Research Interests
 
